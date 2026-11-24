@@ -1,3 +1,4 @@
 public class Conta {
-String numeroconta;   
+String numeroconta;
+String numeroagencia;  
 }
